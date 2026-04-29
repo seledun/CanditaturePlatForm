@@ -1,4 +1,5 @@
 import { CandidaturesFormData, SubmitCandidaturesFormData } from "../models/CandidaturesModel";
+import { CountriesFormData, SubmitCountriesFormData } from "../models/CountriesModel";
 import { ElectionBodiesFormData, SubmitElectionBodiesFormData } from "../models/ElectionBodiesModel";
 import { ElectionsFormData, SubmitElectionsFormData } from "../models/ElectionsModel";
 import { RepresentationsFormData, SubmitRepresentationsFormData } from "../models/RepresentationsModel";
