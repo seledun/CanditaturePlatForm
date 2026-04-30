@@ -78,3 +78,9 @@ export function formatAgreementForm(form: AgreementRegistryFormData): SubmitAgre
     RelatedAgreements: form.RelatedAgreements
   }
 }
+
+export function formatCountriesForm(form: CountriesFormData): SubmitCountriesFormData {
+  return {
+
+  }
+}
